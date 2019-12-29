@@ -7,3 +7,5 @@ Copyright: (c) 2020 Nobuhiro Kamioka
 
 Write contents here.
 
+Japanese Ninja is NO1!!
+
